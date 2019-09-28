@@ -1,6 +1,7 @@
 h1 {
     font-weight: bold;
     font-size: 20pt;
+	
 }
 
 h2 { 
@@ -10,7 +11,7 @@ h2 {
 .header {
     color: black;
     text-align: center;
-    background-color: lightblue;
+    background-color: white;
     font-family: 'Times New Roman', Times, serif;
     font-weight: 12;
     font-size: 10pt;
